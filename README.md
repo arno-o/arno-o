@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arno
 
-### A passionate Javascript developer
+### A Belgium-based Javascript developer
 - ⚡ Fun fact **I loooove the band Twenty One Pilots**
 - 👨‍💻 All of my projects are available at **[https://arno-oosterlynck.be](https://arno-oosterlynck.be)**
 
